@@ -1,1 +1,2 @@
-
+auth:
+  message: "Auth Service Config Loaded from GitHub!"
