@@ -1,1 +1,2 @@
-
+product:
+  message: "Product Service Config Loaded Successfully!"
